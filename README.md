@@ -1,6 +1,6 @@
 👋 Hi, I’m @catescanlon
 
-I'm training to be a clinical researcher studying the brain its related disorders. 
+I'm training to be a clinical researcher studying the brain and its related disorders. 
 
 I've always loved to code, and am trying to introduce this passion and skill of mine into psychology whenever I can.
 I'm best trained in python, but have experience with MATLAB, SQL, and JavaScript as well.
