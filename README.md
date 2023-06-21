@@ -3,8 +3,9 @@
 I'm training to be a clinical researcher studying the brain its related disorders. 
 
 I've always loved to code, and am trying to introduce this passion and skill of mine into psychology whenever I can.
+I'm best trained in python, but have experience with MATLAB, SQL, and JavaScript as well.
 
-I am especially interested in alogrithims and machine learning, and have started a project on them!
+I am especially interested in alogrithims and machine learning, and am currently working on a related project!
 
 
 📫 You can email me at catescanlon@gmail.com!
