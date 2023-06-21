@@ -2,7 +2,7 @@
 
 I'm training to be a clinical researcher studying the brain its related disorders. 
 
-I've always loved to code, and am trying to introduce this passion and skill of mine into psychology whenver I can.
+I've always loved to code, and am trying to introduce this passion and skill of mine into psychology whenever I can.
 
 I am especially interested in alogrithims and machine learning, and have started a project on them!
 
